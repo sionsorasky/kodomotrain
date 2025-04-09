@@ -7,6 +7,11 @@
 
 /*全体の設定
 ---------------------------------------------------------------------------*/
+.vw20 {
+    width: 20vw;
+}
+
+
 html,body {height: 100%;}
 body {
 	margin: 0px;
@@ -319,6 +324,10 @@ header #logo img {
 	left: 35%;	/*ロゴやメニューが入っているブロックに対して、左からの配置場所の指定。*/
 }
 
+#btn {
+    width: 60vw;
+}
+
 }
 
 
@@ -375,3 +384,10 @@ ol {
 .big1 {font-size: 22px;letter-spacing: normal;}
 
 }
+
+.vh80 {
+    height: 80vh;
+}
+
+
+
